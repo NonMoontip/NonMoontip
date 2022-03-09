@@ -1,0 +1,1 @@
+Let me introduce myself. My name is Nattanon Moonthip. I study at Computer Engineer. I want to develop myself to have experience in front-end and back-end, to have expertise and to be able to apply the knowledge gained to further practice to become a future capable programmers
