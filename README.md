@@ -1,3 +1,10 @@
+<style>
+  h1{
+    color: #ddd;
+  }
+</style>
+
+
 <h1>Hi there 👋</h1>
 
 <h5>Nattanon Moontip</h5>
