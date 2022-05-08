@@ -2,8 +2,8 @@
 
 <h5>Nattanon Moontip</h5>
 
-<p style="color="#ddd">
-Frontend Developer 
+<p>
+Frontend Developer <br>
 https://nonmoontip-port.netlify.app/ : Let see my Portfolio.
   
 </p>
