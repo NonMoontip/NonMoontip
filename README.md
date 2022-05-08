@@ -1,4 +1,5 @@
-<style>
+<body>
+\<style>
   h1{
     color: #ddd;
   }
@@ -15,3 +16,4 @@ https://nonmoontip-port.netlify.app/ : Let see my Portfolio.
   
 </p>
 
+</body>
